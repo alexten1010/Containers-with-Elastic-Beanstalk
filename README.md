@@ -2,7 +2,7 @@
 
 ## Containers with Beanstalk is a project that demonstrates how to deploy and manage containerized applications using AWS Elastic Beanstalk. Elastic Beanstalk simplifies the process of deploying, monitoring, and scaling container-based workloads with minimal configuration.
 
-Features
+## Features
 
 Containerized Application Deployment: Easily deploy Docker containers to AWS.
 
